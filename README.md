@@ -14,6 +14,7 @@ A ROS-based project demonstrating an autonomous floor-cleaning robot that maps i
 ---
 
 ## 1. Overview
+
 This repository contains launch files, Python scripts, and configuration files to simulate a TurtleBot3 Waffle Pi equipped with an OpenManipulator-X. The robot autonomously navigates, maps the environment, and can pick or relocate objects detected via LiDAR.
 
 ---
