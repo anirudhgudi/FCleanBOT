@@ -51,8 +51,9 @@ sudo apt-get install ros-noetic-turtlebot3 ros-noetic-turtlebot3-manipulation \
 1. **Clone** this repository into your ROS workspace:
    ```bash
    cd ~/catkin_ws/src
-  git clone https://github.com/anirudhgudi/FCleanBOT.git
-     ```
+   git clone https://github.com/anirudhgudi/FCleanBOT.git
+
+  ```
 
 2. **Build** the workspace:
    ```bash
