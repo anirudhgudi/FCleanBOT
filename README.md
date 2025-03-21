@@ -105,7 +105,7 @@ Below is the **typical sequence** of commands to bring up the robot in Gazebo, l
 A simplified directory layout:
 
 ```
-SmartFloorCleaningRobot/
+fcleanbot/
 ├── launch/
 │   ├── turtlebot3_manipulation_gazebo.launch
 │   ├── turtlebot3_manipulation_bringup.launch
@@ -115,9 +115,6 @@ SmartFloorCleaningRobot/
 ├── scripts/
 │   ├── coverage.py      # Boustrophedon coverage
 │   ├── obs_manipu.py    # Obstacle detection & manipulation
-│   └── ...
-├── turtlebot3_manipulation_moveit_config/
-│   └── move_group.launch
 ├── README.md
 └── ...
 ```
