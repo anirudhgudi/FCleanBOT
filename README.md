@@ -10,6 +10,7 @@ A ROS-based project demonstrating an autonomous floor-cleaning robot that maps i
 5. [Usage](#usage)  
 6. [File Structure](#file-structure)  
 7. [Contributing](#contributing)  
+8. [Results](#results)  
 
 ---
 
@@ -134,6 +135,22 @@ Contributions are welcome! Feel free to open an issue or submit a pull request f
 - Bug fixes
 - Additional features (e.g., advanced vision-based object recognition)
 - Documentation improvements
+
+---
+
+## 8. Results
+
+Below are some snapshots of the robot in action:
+
+### 1. Picking up and grasping with custom object
+![Coverage Path](assets/robotWobj.png)
+![Gazebo Simulation](assets/tb3wobj.png)
+
+
+
+
+
+---
 
 
 
