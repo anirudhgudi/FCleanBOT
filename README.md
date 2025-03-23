@@ -156,7 +156,6 @@ Below are some snapshots of the robot in action:
   <img src="assets/clean.png" alt="Trajectory Boustrophedon" width="500px">
 </p>
 
----
 
 
 
