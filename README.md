@@ -143,12 +143,18 @@ Contributions are welcome! Feel free to open an issue or submit a pull request f
 Below are some snapshots of the robot in action:
 
 ### 1. Picking up and grasping with custom object
-![Coverage Path](assets/robotWobj.png)
-![Gazebo Simulation](assets/tb3wobj.png)
 
+<p align="left">
+  <img src="assets/robotWobj.png" alt="Coverage Path" width="500px">
+</p>
 
+<p align="left">
+  <img src="assets/tb3wobj.png" alt="Gazebo Simulation" width="500px">
+</p>
 
-
+<p align="left">
+  <img src="assets/clean.png" alt="Trajectory Boustrophedon" width="500px">
+</p>
 
 ---
 
